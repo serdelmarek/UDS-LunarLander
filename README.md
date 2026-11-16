@@ -1,0 +1,1 @@
+Repozitár pre predmet úvod do štúdia.
